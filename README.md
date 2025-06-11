@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de461b69-19a5-4b9d-8da4-ce578215d41d)![image](https://github.com/user-attachments/assets/1532dcd9-8d20-41e8-8fe7-6cf785916dfc)# Spotify Music Analysis Dashboard 2023
+# Spotify Music Analysis Dashboard 2023
 
 ## Description
 The Spotify Music Analysis dashboard offers a detailed visual summary of streaming data for tracks, showcasing total streams, top artists, most-streamed songs and musical features such as energy and danceability. It also highlights playlist placements across Spotify, Apple Music, and Deezer, along with trends in daily and monthly streaming patterns, providing a complete picture of listener behavior and music performance over time.
@@ -13,7 +13,6 @@ Spotify Music Analysis Dashboard 2023
 <br><br>
 ### 3. Problem Statement
 - With the exponential growth of music streaming platforms, understanding user listening behavior, identifying top-performing tracks, and analyzing streaming trends across time and platforms has become crucial. However, raw data alone does not provide clear insights. There is a need for a consolidated, visual dashboard that transforms complex streaming data into actionable insights, helping artists, producers, and music marketers make informed decisions regarding content creation, promotion, and release strategies.
-- 
 <br><br>
 ## 4. Tools:
 - Power BI
@@ -79,9 +78,17 @@ Dashboard Development
 
 The dashboard was developed using Power BI, leveraging its data modeling and visualization capabilities. The process began with importing the cleaned dataset into Power BI, followed by creating relationships and calculated measures (like total streams, average streams, etc.) using DAX. A combination of card visuals (for KPIs), line and bar charts (for temporal trends), tables (for top tracks and playlist data), and donut charts (for distribution across platforms) was used. Interactive slicers were added for track name, artist, and date range to allow dynamic filtering. Consistent color themes, clear labels, and intuitive layout design were maintained throughout to enhance readability and insight extraction.
 
+<p align="center">
 <img width="674" alt="Spotify 2023 Dashboard 1" src="https://github.com/user-attachments/assets/d201e2e7-d8f3-4d87-b16e-c42d09ed6fcf" />
+</p>
+
+<p align="center">
 <img width="675" alt="Spotify 2023 Dashboard 2" src="https://github.com/user-attachments/assets/24fccf90-79c5-4baa-9a37-5eaaa1f6434a" />
+</p>
+
+<p align="center">
 <img width="673" alt="Spotify 2023 Dashboard 3" src="https://github.com/user-attachments/assets/604e6ef8-3ed4-4b5b-9b9a-66d16ae42a64" />
+</p>
 <br><br>
 
 ## Key Insights
