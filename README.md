@@ -11,7 +11,7 @@ The Spotify Music Analysis dashboard offers a detailed visual summary of streami
 ### 2. Problem Statement
 - With the exponential growth of music streaming platforms, understanding user listening behavior, identifying top-performing tracks, and analyzing streaming trends across time and platforms has become crucial. However, raw data alone does not provide clear insights. There is a need for a consolidated, visual dashboard that transforms complex streaming data into actionable insights, helping artists, producers, and music marketers make informed decisions regarding content creation, promotion, and release strategies.
 <br><br>
-## 3. Tools:
+### 3. Tools:
 - Power BI
 <br><br>
 
