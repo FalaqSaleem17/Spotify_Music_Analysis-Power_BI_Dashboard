@@ -5,16 +5,13 @@ The Spotify Music Analysis dashboard offers a detailed visual summary of streami
 <br><br>
 
 ## Project Overview
-### 1. Title:
-Spotify Music Analysis Dashboard 2023
-<br><br>
-### 2. Objective:
+### 1. Objective:
 - To analyze and understand music streaming trends and audience behavior for strategic decision-making in the music industry.
 <br><br>
-### 3. Problem Statement
+### 2. Problem Statement
 - With the exponential growth of music streaming platforms, understanding user listening behavior, identifying top-performing tracks, and analyzing streaming trends across time and platforms has become crucial. However, raw data alone does not provide clear insights. There is a need for a consolidated, visual dashboard that transforms complex streaming data into actionable insights, helping artists, producers, and music marketers make informed decisions regarding content creation, promotion, and release strategies.
 <br><br>
-## 4. Tools:
+## 3. Tools:
 - Power BI
 <br><br>
 
